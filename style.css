@@ -10,11 +10,11 @@ body {
 main {
 	display: flex;
 	justify-content: space-between;
-	width: 1110px;
-	height: 446px;
+	width: 69.375rem;
+	height: 27.875rem;
 	background: #1B1937;
-	box-shadow: 0px 20px 20px -10px rgba(23, 25, 41, 0.203087);
-	border-radius: 8px;
+	box-shadow: 0rem 1.25rem 1.25rem -0.625rem rgba(23, 25, 41, 0.203087);
+	border-radius: 0.5rem;
 	overflow: hidden;
 }
 
@@ -22,16 +22,16 @@ section {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	margin-left: 71.5px;
+	margin-left: 4.4688rem;
 }
 
 h1 {
-	width: 403px;
+	width: 25.1875rem;
 	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 700;
-	font-size: 36px;
-	line-height: 44px;
+	font-size: 2.25rem;
+	line-height: 2.75rem;
 	color: #FFFFFF;
 }
 
@@ -40,31 +40,31 @@ span {
 }
 
 .description {
-	margin-top: 25px;
-	width: 374px;
+	margin-top: 1.5625rem;
+	width: 23.375rem;
 	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 400;
-	font-size: 15px;
-	line-height: 25px;
+	font-size: 0.9375rem;
+	line-height: 1.5625rem;
 	color: #FFFFFF;
 	mix-blend-mode: normal;
 	opacity: 0.75;
 }
 
 .container {
-	margin-top: 72px;
+	margin-top: 4.5rem;
 	display: flex;
-	width: 351.5px;
-	gap: 60px;
+	width: 21.9688rem;
+	gap: 3.75rem;
 }
 
 h2 {
 	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 700;
-	font-size: 24px;
-	line-height: 29px;
+	font-size: 1.5rem;
+	line-height: 1.8125rem;
 	color: #FFFFFF;
 }
 
@@ -72,9 +72,9 @@ div > p {
 	font-family: 'Lexend Deca';
 	font-style: normal;
 	font-weight: 400;
-	font-size: 12px;
-	line-height: 25px;
-	letter-spacing: 1px;
+	font-size: 0.75rem;
+	line-height: 1.5625rem;
+	letter-spacing: 0.0625rem;
 	text-transform: uppercase;
 	color: #FFFFFF;
 	mix-blend-mode: normal;
@@ -82,7 +82,7 @@ div > p {
 }
 
 picture {
-	width: 540px;
+	width: 33.75rem;
 	background-color: #AB5CDB;
 	overflow: hidden;
 }
@@ -95,7 +95,7 @@ img {
 }
 
 /* SP */
-@media (max-width: 47.9375rem) {
+@media (max-width: 767px) {
 	body {
 		display: flex;
 		flex-direction: row;
@@ -109,11 +109,11 @@ img {
 		display: flex;
 		flex-direction: column;
 		justify-content: left;
-		width: 327px;
-		height: 780px;
+		width: 20.4375rem;
+		height: 48.75rem;
 		background: #1B1937;
-		box-shadow: 0px 20px 20px -10px rgba(23, 25, 41, 0.203087);
-		border-radius: 8px;
+		box-shadow: 0rem 1.25rem 1.25rem -0.625rem rgba(23, 25, 41, 0.203087);
+		border-radius: 0.5rem;
 		overflow: hidden;
 	}
 	
@@ -123,17 +123,17 @@ img {
 		justify-content: center;
 		align-items: center;
 		width: inherit;
-		margin-top: 40px;
-		margin-left: 0px;
+		margin-top: 2.5rem;
+		margin-left: 0rem;
 	}
 	
 	h1 {
-		width: 264px;
+		width: 16.5rem;
 		font-family: 'Inter';
 		font-style: normal;
 		font-weight: 700;
-		font-size: 28px;
-		line-height: 32px;
+		font-size: 1.75rem;
+		line-height: 2rem;
 		color: #FFFFFF;
 		text-align: center;
 	}
@@ -143,13 +143,13 @@ img {
 	}
 	
 	.description {
-		margin-top: 16px;
-		width: 264px;
+		margin-top: 1rem;
+		width: 16.5rem;
 		font-family: 'Inter';
 		font-style: normal;
 		font-weight: 400;
-		font-size: 15px;
-		line-height: 25px;
+		font-size: 0.9375rem;
+		line-height: 1.5625rem;
 		text-align: center;
 		color: #FFFFFF;
 		mix-blend-mode: normal;
@@ -157,22 +157,22 @@ img {
 	}
 	
 	.container {
-		margin-top: 40px;
+		margin-top: 2.5rem;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
 		text-align: center;
-		width: 264px;
-		gap: 24px;
+		width: 16.5rem;
+		gap: 1.5rem;
 	}
 	
 	h2 {
 		font-family: 'Inter';
 		font-style: normal;
 		font-weight: 700;
-		font-size: 24px;
-		line-height: 29px;
+		font-size: 1.5rem;
+		line-height: 1.8125rem;
 		color: #FFFFFF;
 	}
 	
@@ -180,9 +180,9 @@ img {
 		font-family: 'Lexend Deca';
 		font-style: normal;
 		font-weight: 400;
-		font-size: 12px;
-		line-height: 25px;
-		letter-spacing: 1px;
+		font-size: 0.75rem;
+		line-height: 1.5625rem;
+		letter-spacing: 0.0625rem;
 		text-transform: uppercase;
 		color: #FFFFFF;
 		mix-blend-mode: normal;
@@ -190,7 +190,7 @@ img {
 	}
 	
 	picture {
-		width: 327px;
+		width: 20.4375rem;
 		background-color: #AB5CDB;
 		order: -1;
 	}
